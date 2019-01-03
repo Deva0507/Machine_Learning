@@ -1,0 +1,10 @@
+
+Welcome to 2019!
+Please find below the to-do list for this year:~
+
+1. Strengthen ML concepts
+2. Work on some exciting ML projects in Python
+3. Start studying DL again in a systematic way
+4. Do practice some amazing DL projects in Python as well
+5. Keep practising complex SQL queries
+6. Gain some experience in using Excel and Tableau
