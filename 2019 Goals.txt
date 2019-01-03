@@ -8,3 +8,7 @@ Please find below the to-do list for this year:~
 4. Do practice some amazing DL projects in Python as well
 5. Keep practising complex SQL queries
 6. Gain some experience in using Excel and Tableau
+
+
+Other important goals:
+=> Start GRE preparation
